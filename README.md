@@ -1,14 +1,21 @@
-<h2> Opa, me chamo Renzo, prazer! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBxcDI3czdoMmc3cW9nbHNlMmJlczMybnhkdG1yYTh3dTF1YzNsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5usGT9i6lnJio/giphy.gif" width="50"></h2>
+<h2> Opa, me chamo Renzo Nogaredi, prazer! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBxcDI3czdoMmc3cW9nbHNlMmJlczMybnhkdG1yYTh3dTF1YzNsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5usGT9i6lnJio/giphy.gif" width="50"></h2>
 
 <div>
-  <a href="https://github.com/MariMelo1">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariMelo1&layout=compact&theme=monokai&show_icons=true" />
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MariMelo1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/renzonogar">
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzonogar&layout=compact&theme=monokai&show_icons=true" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=renzonogar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
+    
+<div>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Apaixonado por computação e programação desde pequeno. Atualmente aprendendo GML, Python, JS & HTML5. </b> </em>
+</div>
 ## Ferramentas e Tecnologias
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/>
+
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
 
 ## Contatos:
 
@@ -19,8 +26,8 @@
 </div>
           
           
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Adoro me conectar com pessoas diferentes, então se você quiser dizer oi, ficarei feliz em conhecê-lo!</b> :)</em>
-          
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Apaixonado por computação desde pequeno & programador aprendiz. </b> :)
+em>       
           
 
 <!--

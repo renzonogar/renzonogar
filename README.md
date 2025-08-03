@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I'm Renzo Nogaredi</h1>
+<h1 align="center">Hello there 👋! I'm Renzo Nogaredi</h1>
 <p align="center">
   🇧🇷 Programador e desenvolvedor em ascensão. Atualmente, <br>estou cursando a 2ª fase do Curso Integrado de Informática na SATC.
 </p>

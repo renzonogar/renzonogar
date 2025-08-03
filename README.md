@@ -3,7 +3,7 @@
   🇧🇷 Programador e desenvolvedor em ascensão. Atualmente, <br>estou cursando a 2ª fase do Curso Integrado de Informática na SATC.
 </p>
 <p align="center">
-  🇺🇸 I am a rising programmer and developer. I am currently <br>studying the 2nd phase of the Integrated Computer Science Course at SATC.
+  🇺🇸 Rising programmer and developer. I am currently <br>studying the 2nd phase of the Integrated Computer Science Course at SATC.
 </p>
 
 <p align="center">

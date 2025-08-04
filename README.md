@@ -7,12 +7,21 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=renzonogar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" />
-  
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=renzonogar&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=renzonogar&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=renzonogar&show_icons=true" />
+</picture>
 </p>
 
 
-<h2 align="center">🛠️ Linguagens de Conhecimento 🛠️</h2>
+<h2 align="center">🛠️ Knowledged Languages 🛠️</h2>
 <p align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 <img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" width="40" height="40"/>
@@ -29,7 +38,7 @@
 
 </p>
 <div align="center">
-<h2 align="center">📧 Contatos 📧</h2>
+<h2 align="center">📧 Contacts 📧</h2>
 
 
  <a href="https://www.instagram.com/renzo.nogaredi/" target="_blank">

@@ -23,9 +23,9 @@
 
 <h2 align="center">🛠️ Knowledged Languages 🛠️</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,css,gamemakerstudio,git,github,haxe,haxeflixel" />
-    <img src="https://skillicons.dev/icons?i=,html,js,lua,mysql,postgres,py,unity,visualstudio,vscode,vue,windows" />
+    <img src="https://skillicons.dev/icons?i=html,js,lua,mysql,postgres,py,unity,visualstudio,vscode,vue,windows" />
   </a>
 </p>
 

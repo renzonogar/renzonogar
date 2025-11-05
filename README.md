@@ -46,27 +46,21 @@
 
 ---
 
+<p align="center">
+  Technology student and developer in continuous growth.<br>
+  Passionate about building interactive experiences — from functional systems to expressive, character-driven games.<br>
+  I enjoy blending logic and design to turn ideas into structured, intuitive, and meaningful projects.<br>
+  Currently exploring game development with <strong>GameMaker</strong> and application design using <strong>Python + MySQL</strong>.
+</p>
+
+---
+
 <h3 align="center">💻 Tech Stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,css,gamemakerstudio,git,github,haxe,haxeflixel,html,js,lua,mysql,postgres,py,unity,visualstudio,vscode,vue,windows&perline=11" />
 </p>
 
-<br>
-
-<h3 align="center">📫 Contacts</h3>
-<p align="center">
-  <a href="mailto:renzonogaredi@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/renzo.nogaredi/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/renzonogar">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-  </a>
-</p>
-
-<br>
+---
 
 <h3 align="center">📊 GitHub Insights</h3>
 <p align="center">
@@ -82,9 +76,23 @@
   </table>
 </p>
 
-<br>
+---
+
+<h3 align="center">📫 Contacts</h3>
+<p align="center">
+  <a href="mailto:renzonogaredi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/renzo.nogaredi/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/renzonogar">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+</p>
+
+---
 
 <p align="center">
   <em>“Talk is cheap. Show me the code.” — Linus Torvalds</em>
 </p>
-

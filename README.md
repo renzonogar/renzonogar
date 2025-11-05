@@ -2,7 +2,7 @@
 
 #
 
-#### 💻 Tech Stack 
+### 💻 Tech Stack 
 <div align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,css,gamemakerstudio,git,github,haxe,haxeflixel" />
@@ -10,16 +10,13 @@
   </a>
 </div>
 
-<h2 align="center">📈📊 Activity Graph</h2>
-<p align="center">
-  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=renzonogar&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-
-</p>
+### 📊 Activity Graph
 <div align="center">
-<h2 align="center">📧 Contacts 📧</h2>
-
-
+  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=renzonogar&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Activity Graph" />
 </div>
+
+
+<!-- <h2 align="center">📧 Contacts 📧</h2> -->
+
+
 

@@ -15,7 +15,7 @@
   <table>
     <tr>
       <td>
-        <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=renzonogar&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&locale=pt-br" alt="Activity Graph" />
+        <img height="300em" width="150em" src="https://github-readme-activity-graph.vercel.app/graph?username=renzonogar&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&locale=pt-br" alt="Activity Graph" />
       </td>
       <td>
         <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzonogar&layout=donut-vertical&theme=github_dark&locale=pt-br" alt="Language Card"/>

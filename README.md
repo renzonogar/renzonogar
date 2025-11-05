@@ -2,9 +2,8 @@
 
 #
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 <div align="center">
-### 💻 Tech Stack
   <a>
     <img src="https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,css,gamemakerstudio,git,github,haxe,haxeflixel" />
     <img src="https://skillicons.dev/icons?i=html,js,lua,mysql,postgres,py,unity,visualstudio,vscode,vue,windows" />

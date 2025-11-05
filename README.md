@@ -1,6 +1,7 @@
 <h1 align="center">👋 Hello there, I'm Renzo Nogaredi.</h1>
 
 <h3 align="center">💻 Tech Stack</h3>
+<br>
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,css,gamemakerstudio,git,github,haxe,haxeflixel,html,js,lua,mysql,postgres,py,unity,visualstudio,vscode,vue,windows&perline=11" />
@@ -10,6 +11,7 @@
 #
 
 <h3 align="center">📊 Activity Graph</h3>
+<br>
 <p align="center">
   <table>
     <tr>

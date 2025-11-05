@@ -12,6 +12,14 @@
 
 <h3 align="center">📊 Activity Graph</h3>
 <p align="center">
-  <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=renzonogar&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Activity Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzonogar&layout=donut-vertical&theme=github_dark" alt="Language Card"/>
+  <table>
+    <tr>
+      <td>
+        <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph?username=renzonogar&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" alt="Activity Graph" />
+      </td>
+      <td>
+        <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzonogar&layout=donut-vertical&theme=github_dark" alt="Language Card"/>
+      </td>
+    </tr>
+  </table>
 </p>

@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hello there, I'm Renzo Nogaredi.</h1>
 
+#
+
+<h2>💻 Tech Stack</h2>
 <div align="center">
- # 💻 Tech Stack</h2>
   <a>
     <img src="https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,css,gamemakerstudio,git,github,haxe,haxeflixel" />
     <img src="https://skillicons.dev/icons?i=html,js,lua,mysql,postgres,py,unity,visualstudio,vscode,vue,windows" />

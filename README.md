@@ -53,21 +53,6 @@
 
 ---
 
-<h3 align="center">📊 GitHub Insights</h3>
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="350em" src="https://github-readme-activity-graph.vercel.app/graph?username=renzonogar&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&locale=pt-br" alt="Activity Graph" />
-      </td>
-      <td>
-        <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzonogar&layout=donut-vertical&theme=github_dark&locale=pt-br" alt="Language Card"/>
-      </td>
-    </tr>
-  </table>
-</p>
-
----
 
 <h3 align="center">📫 Contacts</h3>
 <p align="center">
@@ -80,6 +65,22 @@
   <a href="https://github.com/renzonogar">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Insights</h3>
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="350em" src="https://github-readme-activity-graph.vercel.app/graph?username=renzonogar&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&locale=pt-br" alt="Activity Graph" />
+      </td>
+      <td>
+        <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzonogar&layout=donut-vertical&theme=github_dark&locale=pt-br" alt="Language Card"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---

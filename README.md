@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <span style="font-size: 2.2em; font-weight: 700;">📊 Activity Graph</span>
+  ### 📊 Activity Graph
 </p>
 
 <p align="center">

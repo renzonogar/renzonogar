@@ -21,7 +21,7 @@
 </p>
 
 
-<h2 align="center">🛠️ Knowledged Languages 🛠️</h2>
+<h2 align="center">🛠️ Knowledge Area 🛠️</h2>
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,css,gamemakerstudio,git,github,haxe,haxeflixel" />

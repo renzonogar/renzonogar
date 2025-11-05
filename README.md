@@ -28,6 +28,14 @@
 #
 
 <h3 align="center">📧 Contacts</h3>
-
+<br>
+<p align="center">
+  <a href=https://www.instagram.com/renzo.nogaredi/>
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+  <a href=https://www.instagram.com/renzo.nogaredi/>
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+</p>
 
 

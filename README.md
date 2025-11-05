@@ -37,16 +37,19 @@
 
 <h1 align="center">👋 Hello there, I'm <strong>Renzo Nogaredi</strong></h1>
 
+
 <p align="center">
+  🇧🇷
   Estudante de tecnologia e desenvolvedor em constante aprendizado.<br>
   Fascinado por criar experiências interativas — de sistemas funcionais a jogos cheios de personalidade.<br>
   Gosto de unir lógica e design para transformar ideias em projetos reais, bem estruturados e intuitivos.<br>
   Atualmente explorando desenvolvimento de jogos com <strong>GameMaker</strong> e aplicações com <strong>Python + MySQL</strong>.
 </p>
 
----
+
 
 <p align="center">
+  🇺🇸
   Technology student and developer in continuous growth.<br>
   Passionate about building interactive experiences — from functional systems to expressive, character-driven games.<br>
   I enjoy blending logic and design to turn ideas into structured, intuitive, and meaningful projects.<br>
@@ -60,7 +63,22 @@
   <img src="https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,css,gamemakerstudio,git,github,haxe,haxeflixel,html,js,lua,mysql,postgres,py,unity,visualstudio,vscode,vue,windows&perline=11" />
 </p>
 
----
+<br>
+
+<h3 align="center">📫 Contacts</h3>
+<p align="center">
+  <a href="mailto:renzonogaredi@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/renzo.nogaredi/">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/renzonogar">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+</p>
+
+<br>
 
 <h3 align="center">📊 GitHub Insights</h3>
 <p align="center">
@@ -76,22 +94,7 @@
   </table>
 </p>
 
----
-
-<h3 align="center">📫 Contacts</h3>
-<p align="center">
-  <a href="mailto:renzonogaredi@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-  </a>
-  <a href="https://www.instagram.com/renzo.nogaredi/">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/renzonogar">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
-  </a>
-</p>
-
----
+<br>
 
 <p align="center">
   <em>“Talk is cheap. Show me the code.” — Linus Torvalds</em>

@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello there, I'm Renzo Nogaredi.</h1>
 
-#
+
 
 ### 💻 Tech Stack 
 <div align="center">

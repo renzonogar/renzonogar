@@ -23,18 +23,11 @@
 
 <h2 align="center">🛠️ Knowledged Languages 🛠️</h2>
 <p align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-<img src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" alt="C" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReflYD3bP9E2XvdDCU-8Z42M30Q43YWQjYxg&s" alt="GM" width="40" height="40"/>
-</div>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,css,gamemakerstudio,git,github,haxe,haxeflixel,html,js,lua,mysql,postgres,py,unity,visualstudio,vscode,vue,windows" />
+  </a>
+</p>
+
 
 </p>
 <div align="center">

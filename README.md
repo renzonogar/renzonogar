@@ -38,8 +38,10 @@
 <h1 align="center">👋 Hello there, I'm <strong>Renzo Nogaredi</strong></h1>
 
 <p align="center">
-  💡 <em>Estudante e desenvolvedor em constante aprendizado</em><br>
-  🎮 Apaixonado por jogos, interfaces e código que cria experiências.
+  💡 <em>Estudante de tecnologia e desenvolvedor em constante aprendizado.</em><br>
+  🎮 Fascinado por criar experiências interativas — de sistemas funcionais a jogos cheios de personalidade.<br>
+  ✨ Gosto de unir lógica e design para transformar ideias em projetos reais, bem estruturados e intuitivos.<br>
+  🚀 Atualmente explorando desenvolvimento de jogos com <strong>GameMaker</strong> e aplicações com <strong>Python + MySQL</strong>.
 </p>
 
 ---
@@ -51,7 +53,7 @@
 
 ---
 
-<h3 align="center">📊 My GitHub Activity</h3>
+<h3 align="center">📊 GitHub Insights</h3>
 <p align="center">
   <table>
     <tr>
@@ -85,3 +87,4 @@
 <p align="center">
   <em>“Talk is cheap. Show me the code.” — Linus Torvalds</em>
 </p>
+

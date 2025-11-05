@@ -3,8 +3,7 @@
 <h3 align="center">💻 Tech Stack</h3>
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,css,gamemakerstudio,git,github,haxe,haxeflixel" />
-    <img src="https://skillicons.dev/icons?i=html,js,lua,mysql,postgres,py,unity,visualstudio,vscode,vue,windows" />
+    <img src="https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,css,gamemakerstudio,git,github,haxe,haxeflixel,html,js,lua,mysql,postgres,py,unity,visualstudio,vscode,vue,windows&perline=11" />
   </a>
 </p>
 
@@ -23,3 +22,10 @@
     </tr>
   </table>
 </p>
+
+#
+
+<h3 align="center">📧 Contacts</h3>
+
+
+

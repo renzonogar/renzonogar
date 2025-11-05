@@ -2,7 +2,7 @@
 
 #
 
-<h2>💻 Tech Stack</h2>
+### <h2>💻 Tech Stack</h2>
 <div align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,css,gamemakerstudio,git,github,haxe,haxeflixel" />

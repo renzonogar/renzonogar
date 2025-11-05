@@ -38,7 +38,8 @@
 <h1 align="center">👋 Hello there, I'm <strong>Renzo Nogaredi</strong></h1>
 
 <p align="center">
-  Estudante de tecnologia e desenvolvedor em constante aprendizado. Fascinado por criar experiências interativas — de sistemas funcionais a jogos cheios de personalidade.<br>
+  Estudante de tecnologia e desenvolvedor em constante aprendizado.<br>
+  Fascinado por criar experiências interativas — de sistemas funcionais a jogos cheios de personalidade.<br>
   Gosto de unir lógica e design para transformar ideias em projetos reais, bem estruturados e intuitivos.<br>
   Atualmente explorando desenvolvimento de jogos com <strong>GameMaker</strong> e aplicações com <strong>Python + MySQL</strong>.
 </p>

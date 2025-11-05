@@ -51,7 +51,6 @@
   <img src="https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,css,gamemakerstudio,git,github,haxe,haxeflixel,html,js,lua,mysql,postgres,py,unity,visualstudio,vscode,vue,windows&perline=11" />
 </p>
 
----
 
 
 <h3 align="center">📫 Contacts</h3>
@@ -67,7 +66,7 @@
   </a>
 </p>
 
----
+
 
 <h3 align="center">📊 GitHub Insights</h3>
 <p align="center">
@@ -83,7 +82,7 @@
   </table>
 </p>
 
----
+
 
 <p align="center">
   <em>“Talk is cheap. Show me the code.” — Linus Torvalds</em>

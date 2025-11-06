@@ -67,7 +67,7 @@
 
 <h3 align="center">📫 Contacts</h3>
 <p align="center">
-  <a href="mailto:renzonogaredi@gmail.com">
+  <a href="mailto:renzonogar@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
   <a href="https://www.instagram.com/renzo.nogaredi/">

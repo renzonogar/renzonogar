@@ -67,13 +67,13 @@
 
 <h3 align="center">📫 Contacts</h3>
 <p align="center">
-  <a href="mailto:renzonogar@gmail.com">
+  <a href="mailto:renzonogaredi@gmail.com" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
-  <a href="https://www.instagram.com/renzo.nogaredi/">
+  <a href="https://www.instagram.com/renzo.nogaredi/" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
   </a>
-  <a href="https://github.com/renzonogar">
+  <a href="https://github.com/renzonogar" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
 </p>

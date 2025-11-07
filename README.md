@@ -60,7 +60,7 @@
 
 <h3 align="center">💻 Tech Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,css,gamemakerstudio,git,github,haxe,haxeflixel,html,js,mysql,postgres,py,unity,visualstudio,vscode,windows&perline=11" />
+  <img src="https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,css,gamemakerstudio,git,github,haxe,haxeflixel,html,js,mysql,postgres,py,unity,visualstudio,vscode,windows&perline=10" />
 </p>
 
 <br>

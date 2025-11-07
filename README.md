@@ -43,7 +43,7 @@
   Estudante de tecnologia e desenvolvedor em constante aprendizado.<br>
   Fascinado por criar experiências interativas — de sistemas funcionais a jogos cheios de personalidade.<br>
   Gosto de unir lógica e design para transformar ideias em projetos reais, bem estruturados e intuitivos.<br>
-  Atualmente explorando desenvolvimento de jogos com <strong>GameMaker</strong> e aplicações com <strong>Python + MySQL</strong>.
+  Atualmente explorando desenvolvimento de jogos com <strong>GameMaker</strong>, <strong>Unity</strong> e aplicações com <strong>Python + MySQL</strong>.
 </p>
 
 
@@ -53,14 +53,14 @@
   Technology student and developer in continuous growth.<br>
   Passionate about building interactive experiences — from functional systems to expressive, character-driven games.<br>
   I enjoy blending logic and design to turn ideas into structured, intuitive, and meaningful projects.<br>
-  Currently exploring game development with <strong>GameMaker</strong> and application design using <strong>Python + MySQL</strong>.
+  Currently exploring game development with <strong>GameMaker</strong>, <strong>Unity</strong> and application design using <strong>Python + MySQL</strong>.
 </p>
 
 ---
 
 <h3 align="center">💻 Tech Stack</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,css,gamemakerstudio,git,github,haxe,haxeflixel,html,js,lua,mysql,postgres,py,unity,visualstudio,vscode,vue,windows&perline=11" />
+  <img src="https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,css,gamemakerstudio,git,github,haxe,haxeflixel,html,js,mysql,postgres,py,unity,visualstudio,vscode,windows&perline=11" />
 </p>
 
 <br>

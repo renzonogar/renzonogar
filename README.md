@@ -95,6 +95,6 @@
 </p>
 <br><br>
 <p align="center">
-  <em>“Hey look, buddy, I'm an Engineer. That means I solve problems. Practical problems.” — Engineer</em>
+  <em>“Hey look, buddy, I'm an Engineer. That means I solve problems. Practical problems.” — Engineer [Team Fortress 2]</em>
 </p>
 

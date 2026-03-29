@@ -1,41 +1,4 @@
-<!-- <h1 align="center">👋 Hello there, I'm Renzo Nogaredi.</h1>
-
-<h3 align="center">💻 Tech Stack</h3>
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=arduino,bash,c,cs,cpp,css,gamemakerstudio,git,github,haxe,haxeflixel,html,js,lua,mysql,postgres,py,unity,visualstudio,vscode,vue,windows&perline=11" />
-  </a>
-</p>
-
-#
-
-<h3 align="center">📊 Activity Graph</h3>
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="400em" src="https://github-readme-activity-graph.vercel.app/graph?username=renzonogar&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&locale=pt-br" alt="Activity Graph" />
-      </td>
-      <td>
-        <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzonogar&layout=donut-vertical&theme=github_dark&locale=pt-br" alt="Language Card"/>
-      </td>
-    </tr>
-  </table>
-</p>
-
-#
-
-<h3 align="center">📧 Contacts</h3>
-<p align="center">
-  <a href=https://www.instagram.com/renzo.nogaredi/>
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
-  <a href=https://www.instagram.com/renzo.nogaredi/>
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-</p> -->
-
-<h1 align="center">👋 Hello there, I'm <strong>Renzo Nogaredi</strong></h1>
+<!-- <h1 align="center">👋 Hello there, I'm <strong>Renzo Nogaredi</strong></h1>
 
 
 <p align="center">
@@ -98,4 +61,40 @@
 
 <p align="center">
   <em>“Talk is cheap. Show me the code.” — Linus Torvalds</em>
+</p> -->
+<h1 align=center>
+   <a href="https://renzonogaredi.com" >renzonogaredi.com</a>
+</h1>
+
+<h3 align=center>Technical course in IT [3/4]</h3>
+<p align="center">
+  Building clean and functional solutions.<br>
+  Learning something new every day.
 </p>
+
+---
+
+<h3 align="center">💻 Stack 💻</h3>
+<p align="center">
+  
+  <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,mysql,py,react&theme=dark&perline=4"/>
+</p>
+
+
+<h3 align="center">📫 Contacts 📫</h3>
+<p align="center">
+  <a href="mailto:renzonogar@gmail.com" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/renzo.nogaredi/" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/renzonogar" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+</p>
+<br><br>
+<p align="center">
+  <em>“Hey look, buddy, I'm an Engineer. That means I solve problems. Practical problems.” — Engineer</em>
+</p>
+

@@ -63,7 +63,7 @@
   <em>“Talk is cheap. Show me the code.” — Linus Torvalds</em>
 </p> -->
 <h1 align=center>
-   <a href="https://v0-renzonogaredi.vercel.app/" >renzonogaredi.com</a>
+   <a href="https://v0-renzonogaredi.vercel.app/" >renzonogaredi.vercel.app</a>
 </h1>
 
 <h3 align=center>Technical course in IT [3/4]</h3>

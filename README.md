@@ -77,7 +77,7 @@
 <h3 align="center">💻 Stack 💻</h3>
 <p align="center">
   
-  <img src="https://skillicons.dev/icons?i=c,cpp,css,html,java,mysql,py,react&theme=dark&perline=4"/>
+  <img src="https://skillicons.dev/icons?i=css,html,java,mysql,py,php,react,typescript&theme=dark&perline=4"/>
 </p>
 
 
